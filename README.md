@@ -252,3 +252,4 @@ This project is licensed under the MIT License.
 # chore(init): initialize project structure
 # docs(readme): add project documentation and setup guide
 # chore(init): initialize project structure
+# docs(readme): add project documentation and setup guide
